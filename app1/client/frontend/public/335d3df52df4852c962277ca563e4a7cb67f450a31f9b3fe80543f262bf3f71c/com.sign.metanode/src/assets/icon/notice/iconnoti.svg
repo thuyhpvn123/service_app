@@ -1,0 +1,20 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_2183_1087)">
+<rect width="40" height="40" rx="15" fill="white"/>
+<rect x="0.5" y="0.5" width="39" height="39" rx="14.5" stroke="#EDEEF0"/>
+</g>
+<path d="M28.3333 15.4165H23.3333" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.0001 15.4165H11.6667" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.3334 18.3333C19.9442 18.3333 21.2501 17.0275 21.2501 15.4167C21.2501 13.8058 19.9442 12.5 18.3334 12.5C16.7226 12.5 15.4167 13.8058 15.4167 15.4167C15.4167 17.0275 16.7226 18.3333 18.3334 18.3333Z" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.3333 24.5835H25" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.6667 24.5835H11.6667" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.6667 27.4998C23.2775 27.4998 24.5833 26.194 24.5833 24.5832C24.5833 22.9723 23.2775 21.6665 21.6667 21.6665C20.0558 21.6665 18.75 22.9723 18.75 24.5832C18.75 26.194 20.0558 27.4998 21.6667 27.4998Z" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_b_2183_1087" x="-22" y="-22" width="84" height="84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="11"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2183_1087"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2183_1087" result="shape"/>
+</filter>
+</defs>
+</svg>

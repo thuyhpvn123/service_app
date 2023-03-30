@@ -1,0 +1,47 @@
+
+[
+  {
+    "components": [
+      {
+        "internalType": "string",
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "internalType": "uint256",
+        "name": "age",
+        "type": "uint256"
+      }
+    ],
+    "internalType": "struct BEP20.People",
+    "name": "a",
+    "type": "tuple",
+    "value": [
+      "Duc",
+      25
+    ]
+  },
+  {
+    "internalType": "uint256",
+    "name": "b",
+    "type": "uint256",
+    "value": 25
+  }
+]
+
+
+{ "type" : "function", 
+"name" : "overloadedNames", 
+"stateMutability" : "view", 
+"inputs": [ 
+	{ 	"components": [ 
+			{ "internalType": "uint256", "name": "_f",	"type": "uint256" },
+			{ "internalType": "uint256", "name": "__f", "type": "uint256"},
+			{ "internalType": "uint256", "name": "f", "type": "uint256"}
+		],
+		"internalType": "struct Overloader.F",
+		"name": "f",
+		"type": "tuple"
+		}
+	]
+}
